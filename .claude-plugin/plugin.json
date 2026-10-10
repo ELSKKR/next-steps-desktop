@@ -1,0 +1,6 @@
+{
+  "name": "next-steps-desktop",
+  "version": "0.1.0",
+  "description": "每回合結束後，在輸入框上方顯示最多 3 個「下一步」建議按鈕（終端機與桌面版皆可）",
+  "types": "./types/index.d.ts"
+}
